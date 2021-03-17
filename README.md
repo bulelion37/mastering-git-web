@@ -1,5 +1,6 @@
-# mastering-git-web
+# 캡스톤디자인1
+## 방글라데시 과제 4  가드 관리
 
-This repository houses a proposed website for the Mastering Git book.
+*study Deep Learning*
 
-Contact: mwkoo@sogang.ac.kr
+Contact: bulelion37@naver.com
