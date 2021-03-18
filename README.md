@@ -4,7 +4,6 @@
 ### 손동현, 권형준, 정진원, 정동혁, 윤다영
 
 ## 개발 위해 공부해야할 분야
-*Deep Learning*
-*coursera 강의를 들으며 매주 회의*
+*Deep Learning - coursera 강의를 들으며 매주 회의*
 
 Contact: bulelion37@naver.com
